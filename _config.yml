@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sally Baker
 description: bibliophile | technophile | minimalist
+url: http://sallybaker.net
+baseurl: http://sallybaker.github.io
