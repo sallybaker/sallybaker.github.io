@@ -11,10 +11,6 @@ footer {
   display: none !important;
 }
 
-* {
-  color: #282828;
-  font-family: 'Roboto', sans-serif;
-}
 body {
   display: flex;
   flex-direction: column;
@@ -22,6 +18,8 @@ body {
   justify-content: center;
   height: 100vh;
   background-image: linear-gradient(#fff, #bebebe);
+  font-family: 'Roboto', sans-serif;
+  color: #282828;
 }
 content {
   text-align:center;
