@@ -11,10 +11,19 @@ footer {
 
 body {
   padding: 0;
-  margin: 3em auto 3em auto;
+  margin: 3em;
   font-family: 'Roboto', sans-serif;
   color: #282828;
 }
 ul.posts {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+p.meta {
+  color: #bebebe;
+}
+.title a {
+  color: #282828;
+  text-decoration: none;
 }
