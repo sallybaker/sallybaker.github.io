@@ -8,3 +8,13 @@ footer {
 .btn {
   display: none !important;
 }
+
+body {
+  padding: 0;
+  margin: 3em auto 3em auto;
+  font-family: 'Roboto', sans-serif;
+  color: #282828;
+}
+ul.posts {
+  list-style-type: none;
+}
