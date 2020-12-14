@@ -1,14 +1,14 @@
 ---
 ---
-
+* {
+  font-size: 0.8rem;
+}
 footer {
   display: none !important;
 }
-
 .btn {
   display: none !important;
 }
-
 body {
   padding: 0;
   margin: 3em;
@@ -27,4 +27,13 @@ p.meta {
 .title a {
   color: #551A8B;
   text-decoration: none;
+}
+h1 {
+  font-size: 1.2rem;
+}
+h2 {
+  font-size: 1rem;
+}
+h3 {
+  font-size: 0.8rem;
 }
