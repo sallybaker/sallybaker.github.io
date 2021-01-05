@@ -4,7 +4,8 @@ title: posts
 ---
 <h1>Posts</h1>
 <ul class="posts">
-    {% for post in site.posts %}
+    {% assign byDate = site.posts | sort: 'date' | reverse %}
+    {% for post in site.byDate %}
       <li>
         <span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a><br />
       </li>
