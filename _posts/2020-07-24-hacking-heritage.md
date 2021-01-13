@@ -31,7 +31,7 @@ and analysis.
 [Interact with this notebook on Binder](https://mybinder.org/v2/gh/sallybaker/WWI-Music-Scores/master?filepath=Music.ipynb)
 
 ### Project Two: ATSI Language Materials
-Jupyter notebook explores the the State Library of Queensland *Collection items in
+This notebook explores the the State Library of Queensland *Collection items in
 Aboriginal and Torres Strait Islander languages* dataset. 
 
 [atsi-language-materials project on GitHub](https://github.com/sallybaker/atsi-language-materials)
